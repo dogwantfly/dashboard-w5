@@ -12907,7 +12907,7 @@ select {
           transform: rotate(180deg);
 }
 
-.modal-content {
+.modal-edit .modal-content {
   max-height: calc(100vh - 3.5rem);
   overflow: hidden;
 }
